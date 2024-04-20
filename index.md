@@ -8,7 +8,7 @@ Markdown makes it easy to write and maintain documentation, but is normally limi
 
 This page documents how to use plain old Markdown and CSS to achieve a responsive, two column layout, with code examples their explanations appear next to each other. It targets code documentation, but can easily be adapted to other contexts as well.
 
-internal link test: [LINKBOISSSS](https://merlinpielich.github.io/Readme.md)
+internal link test: [LINKBOISSSS](https://merlinpielich.github.io/Readme.html)
 
 For maximum metaness, the page itself uses the two column layout it documents. More complete examples are demonstrated on the [Bennu][bennu] and [Nu][nu] project sites.
 
