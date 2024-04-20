@@ -13,11 +13,15 @@ internal link test: [LINKBOISSSS](https://merlinpielich.github.io/Readme.html)
 <!-- anchor link -->
 <a href="/README.md">root-relative file</a>
 
+[LINKBOISSSS](resume)
+
 For maximum metaness, the page itself uses the two column layout it documents. More complete examples are demonstrated on the [Bennu][bennu] and [Nu][nu] project sites.
 
 Checkout the complete code on [github][src]. It uses [Jekyll](http://jekyllrb.com). Simply run: `$ jekyll build` to build it.
 
 <div class="begin-examples"></div>
+
+
 
 ## The Markdown
 We'll abuse some Markdown elements to get the layout we want. You can choose to style your page differently, but here we'll have code examples on the right, and code explanations on the left.
