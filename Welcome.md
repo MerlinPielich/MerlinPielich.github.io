@@ -9,9 +9,9 @@ Largest Column: left
 Overflow: [Scroll, Hidden]
 ```
 
-
-permalink: /resume/index.md
-
+---
+permalink: "/resume/"
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis varius risus. Sed at metus lobortis, tincidunt lorem vel, tincidunt eros. Ut augue mauris, sagittis suscipit pellentesque vel, pellentesque vitae risus. Proin ac faucibus ligula. Sed bibendum nisl nec aliquet venenatis. Aenean tempus vulputate erat, id euismod est sodales nec. In ultricies erat risus, sit amet consequat justo congue eget. Nunc molestie venenatis quam at vulputate. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
