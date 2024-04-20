@@ -1,4 +1,8 @@
 
+---
+permalink: /resume/index.html
+---
+
  
 When you're ready, delete this note and make the vau
 --- start-multi-column: ID_r61d
