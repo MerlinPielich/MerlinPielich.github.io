@@ -6,6 +6,8 @@ Checkout the [live example][site] for an explanation of how this layout works, o
 
 The example uses uses [Jekyll](http://jekyllrb.com). Simply run: `$ jekyll build` to build it.
 
+[Internal link test ](Welcome.md)
+
 
 [site]: http://mattbierner.github.io/markdown-two-column-documentation-example
 
