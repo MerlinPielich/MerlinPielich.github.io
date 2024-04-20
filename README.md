@@ -1,40 +1,16 @@
-article .begin-examples ~ h2,
-article .begin-examples ~ h2 + p {
-    width: 100%;
-    clear: both;
-}
+# Responsive, Two Column Documentation Layout With Markdown and CSS
+
+Using Markdown and CSS to achieve a responsive, two column layout, with code examples and their explanations appear next to each other.
+
+Checkout the [live example][site] for an explanation of how this layout works, or view the [index.md][index] and [style][style] files in this repo for the complete source. The [Bennu project site][bennu] shows a more elaborate version of this layout in action.
+
+The example uses uses [Jekyll](http://jekyllrb.com). Simply run: `$ jekyll build` to build it.
 
 
-article .begin-examples ~ h3,
-article .begin-examples ~ p,
-article .begin-examples ~ .highlight {
-    width: 50%;
-}
+[site]: http://mattbierner.github.io/markdown-two-column-documentation-example
 
-article .begin-examples ~ h3,
-article .begin-examples ~ p {
-    float: left;
-    box-sizing: border-box;
-    padding-right: 1rem;
-    clear: both;
-}
+[bennu]: http://bennu-js.com
 
-article .begin-examples ~ .highlight {
-    float: right;
-    clear: right;
-    margin-bottom: 1rem;
-}
-
-.end-examples {
-    clear: both;
-}
-
-article .end-examples ~ p,
-article .end-examples ~ h3,
-article .end-examples ~ .highlight {
-    width: auto;
-    float: none;
-    clear: none;
-}
-
-
+[src]: https://github.com/mattbierner/markdown-two-column-documentation-example
+[index]: https://raw.githubusercontent.com/mattbierner/markdown-two-column-documentation-example/master/index.md
+[style]: https://github.com/mattbierner/markdown-two-column-documentation-example/blob/master/stylesheets/styles.css
