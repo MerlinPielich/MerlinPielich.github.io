@@ -11,7 +11,7 @@ This page documents how to use plain old Markdown and CSS to achieve a responsiv
 internal link test: [LINKBOISSSS](https://merlinpielich.github.io/Readme.html)
 
 <!-- anchor link -->
-<a href="/Readme.md">root-relative file</a>
+<a href="/README.md">root-relative file</a>
 
 For maximum metaness, the page itself uses the two column layout it documents. More complete examples are demonstrated on the [Bennu][bennu] and [Nu][nu] project sites.
 
